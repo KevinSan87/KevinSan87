@@ -13,9 +13,9 @@ Software Engineering Student • Backend Developer • Web Systems
 # 📈 Gráfico de Atividade
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevinsan87&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C363636)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kevinsan87&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C363636" />
+  </a>
 </p>
 
 <p align="center">
