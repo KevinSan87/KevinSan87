@@ -13,6 +13,12 @@ Software Engineering Student • Backend Developer • Web Systems
 # 📈 Gráfico de Atividade
 
 <p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevinsan87&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C363636)](https://git.io/streak-stats)
+
+</p>
+
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinsan87&theme=github-compact&hide_border=true"/>
 </p>
 
@@ -56,11 +62,7 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub 
 
 # 🔥 GitHub Streak
 
-<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevinsan87&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C363636)](https://git.io/streak-stats)
-
-</p>
 
 ---
 
