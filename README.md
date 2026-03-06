@@ -44,40 +44,12 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub 
 
 ---
 
-# 🚀 Projetos Principais
-
-<p align="center">
-
-<a href="https://github.com/KevinSan87/Gerador-de-QR-code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSan87&repo=Gerador-de-QR-code&theme=highcontrast"/>
-</a>
-
-<a href="https://github.com/KevinSan87/kevinsan87.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSan87&repo=kevinsan87.github.io&theme=highcontrast"/>
-</a>
-
-</p>
-
----
-
 # 🤝 Conecte-se comigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-de-santana-562711293/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Kevin%20de%20Santana-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
-
----
-
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinSan87&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSan87&layout=compact&theme=highcontrast&langs_count=8"/>
-
 </p>
 
 ---
