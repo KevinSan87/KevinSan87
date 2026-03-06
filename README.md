@@ -41,7 +41,7 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub 
 <p align="center">
 <a href="https://kevinsan87.github.io/" target="_blank">
 <img 
-src="https://api.microlink.io/?url=https://kevinsan87.github.io/&screenshot=true&meta=false&embed=screenshot.url&delay=20000&viewport.width=1200&viewport.height=800&deviceScaleFactor=2" 
+src="https://api.microlink.io/?url=https://kevinsan87.github.io/&screenshot=true&meta=false&embed=screenshot.url&delay=90000&viewport.width=1200&viewport.height=800&deviceScaleFactor=2" 
 width="850"/>
 </a>
 </p>
