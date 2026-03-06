@@ -60,12 +60,6 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub 
 
 ---
 
-# 🔥 GitHub Streak
-
-
-
----
-
 # 🐍 Contribuições
 
 <p align="center">
