@@ -12,7 +12,9 @@ Software Engineering Student • Backend Developer • Web Systems
 
 # 📈 Gráfico de Atividade
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinsan87&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
@@ -23,22 +25,28 @@ Software Engineering Student • Backend Developer • Web Systems
 </p>
 
 <p align="center">
-Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git & GitHub • React • Web Architecture
+Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub • React • Web Architecture
 </p>
 
 ---
 
 # 🌐 Meu Portfólio
 
+<p align="center">
 <a href="https://kevinsan87.github.io/" target="_blank">
 <img src="https://api.microlink.io/?url=https://kevinsan87.github.io/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="850"/>
 </a>
+</p>
 
+<p align="center">
 🔗 https://kevinsan87.github.io/
+</p>
 
 ---
 
 # 🚀 Projetos Principais
+
+<p align="center">
 
 <a href="https://github.com/KevinSan87/Gerador-de-QR-code">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSan87&repo=Gerador-de-QR-code&theme=highcontrast"/>
@@ -48,13 +56,15 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git & GitHub �
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSan87&repo=kevinsan87.github.io&theme=highcontrast"/>
 </a>
 
+</p>
+
 ---
 
 # 🤝 Conecte-se comigo
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/kevin-de-santana-562711293/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Kevin%20Santana-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kevin%20de%20Santana-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
