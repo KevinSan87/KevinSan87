@@ -74,9 +74,9 @@ Java • Node.js • TypeScript • SQL • C / C++ • HTML • Git • GitHub 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinsan87&show_icons=true&theme=highcontrast"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinSan87&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsan87&layout=compact&theme=highcontrast"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSan87&layout=compact&theme=highcontrast&langs_count=8"/>
 
 </p>
 
