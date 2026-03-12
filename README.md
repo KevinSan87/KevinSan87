@@ -5,7 +5,7 @@ Software Engineering Student • Backend Developer • Web Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Backend+Developer;Criando+sistemas+reais;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7GF&size=32&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Backend+Developer;Criando+sistemas+reais;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
